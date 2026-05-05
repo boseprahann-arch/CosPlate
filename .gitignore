@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Environment Variables
+.env
+
+# Database
+*.sqlite
+*.sqlite-journal
+
+# Build Artifacts
+dist/
+frontend/dist/
+out/
+
+# OS Files
+.DS_Store
+Thumbs.db

@@ -31,7 +31,6 @@ CosPlate is a production-ready desktop application designed for "vibe coding" â€
 1. Clone the repository:
    ```bash
    git clone https://github.com/boseprahann-arch/CosPlate.git
-   cd (Your name for the file)
    ```
 
 2. Install dependencies:
